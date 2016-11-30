@@ -10,7 +10,7 @@ A principio o projeto era constituido de três .jar:
 <ul>
 <li><b>iNFCe</b>: o Projeto Principal</li>
 <li><b>iQrCode:</b> o gerador de qrCode em .jpg</li>
-<li><b>iDaneNFce:</b> o modulo responsável por ler o XML e gerar o Danfe NFC-e em PDF</b></li>
+<li><b>iDanfeNFce:</b> o módulo responsável por ler o XML e gerar o Danfe NFC-e em PDF</b></li>
 </ul>
 
 Por incrível que pareça o sistema funcionou :) Na época desenvolvi um PDV (Ponto de Venda) no NetBeans e deu certo: vendia, emitia NFC-e e, por fim, imprimia o Danfe.
