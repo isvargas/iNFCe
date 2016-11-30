@@ -5,7 +5,7 @@ Em 2014 comecei o desenvolvimento de um projeto para Emissão de NFc-e em Java.
 
 Minha intenção era escrever um pacote que pudesse ser utilizado tanto em ambiente desktop quanto web.
 
-A principio o projeto era constituido de três .jar:
+A princípio o projeto era constituido de três .jar:
 
 <ul>
 <li><b>iNFCe</b>: o Projeto Principal</li>
@@ -15,9 +15,7 @@ A principio o projeto era constituido de três .jar:
 
 Por incrível que pareça o sistema funcionou :) Na época desenvolvi um PDV (Ponto de Venda) no NetBeans e deu certo: vendia, emitia NFC-e e, por fim, imprimia o Danfe.
 
-Masss... acabei descontinuando o projeto, e desde então nunca mais mexi nele.
-
-O Java se mostrou inadequado para mim, uma vez que meu objetivo era Desktop (sim, muita gente ainda nao gosta de sistemas web), e acabei abandonando o projeto.
+Masss... O Java se mostrou inadequado para mim (ao menos para um sistema PDV desktop), e acabei descontinuando o projeto. Desde então nunca mais mexi nele (nem em Java rsrs).
 
 Enfim, para o sistema não ficar engavetado por ai, resolvi liberar os fontes para que o pessoal possa dar uma olhada e, quem sabe, ajudar alguém em alguma coisa :)
 
