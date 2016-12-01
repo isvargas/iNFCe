@@ -9,15 +9,13 @@ A principio o projeto era constituido de três .jar:
 
 <ul>
 <li><b>iNFCe</b>: o Projeto Principal</li>
-<li><b>iQrCode:</b> o gerador de qrCode em .jpg</li>
+<li><b>iQrCode:</b> o gerador de QrCode em .jpg</li>
 <li><b>iDaneNFce:</b> o modulo responsável por ler o XML e gerar o Danfe NFC-e em PDF</b></li>
 </ul>
 
 Por incrível que pareça o sistema funcionou :) Na época desenvolvi um PDV (Ponto de Venda) no NetBeans e deu certo: vendia, emitia NFC-e e, por fim, imprimia o Danfe.
 
-Masss... acabei descontinuando o projeto, e desde então nunca mais mexi nele.
-
-O Java se mostrou inadequado para mim, uma vez que meu objetivo era Desktop (sim, muita gente ainda nao gosta de sistemas web), e acabei abandonando o projeto.
+Masss... o Java se mostrou inadequado para mim (inviável para módulos desktop) e acabei abandonando o projeto. Desde então nunca mais mexi nele.
 
 Enfim, para o sistema não ficar engavetado por ai, resolvi liberar os fontes para que o pessoal possa dar uma olhada e, quem sabe, ajudar alguém em alguma coisa :)
 
